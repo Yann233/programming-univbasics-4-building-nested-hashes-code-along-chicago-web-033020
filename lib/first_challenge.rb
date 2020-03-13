@@ -2,6 +2,6 @@
 
 #end
 epic_tragedy = {
-  :montague => {},
-  :capulet => {}
+  :montague => {["Lord","Lady","Romeo"]},
+  :capulet => {["Lord","Lady","Juliet"]}
 }

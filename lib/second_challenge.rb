@@ -1,4 +1,4 @@
-=begin
+
 def second_challenge
   epic_tragedy={
     :montague=>{
@@ -15,21 +15,22 @@ def second_challenge
     }
   }
 end
-=end
 
+=begin
 def second_challenge
-  epic_tragedy = {
-    montague: {
-      patriarch: {},
-      matriarch: {},
-      hero: {},
-      hero_friends: []
+  epic_tragedy={
+    montague:{
+      patriarch:{},
+      matriarch:{},
+      hero:{},
+      hero_friends:[]
     },
-    capulet: {
-      patriarch: {},
-      matriarch: {},
-      heroine: {},
-      heroine_friends: []
+    capulet:{
+      patriarch:{},
+      matriarch:{},
+      heroine:{},
+      heroine_friends:[]
     }
   }
 end
+=end
